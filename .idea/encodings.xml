@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/burp/BurpExtender.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/burp/indi/augusttheodor/helper/ABooleanTableCellEditor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/burp/indi/augusttheodor/helper/AConfigPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/burp/indi/augusttheodor/helper/AMainPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/burp/indi/augusttheodor/helper/ASettingPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/burp/indi/augusttheodor/helper/ATextField.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/burp/indi/augusttheodor/helper/HttpProcessor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/burp/indi/augusttheodor/helper/L18n.java" charset="GBK" />
+  </component>
+</project>
